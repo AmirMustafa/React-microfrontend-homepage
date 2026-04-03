@@ -1,6 +1,9 @@
 # Getting Started with React Micro Frontend MFE App
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-01 at 5 02 34 PM" src="https://github.com/user-attachments/assets/246a3b7e-20c0-44a2-ad4f-bc3ebad620fe" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-03 at 4 15 08 PM" src="https://github.com/user-attachments/assets/abff05cb-3de0-4621-ad21-8b8559afe205" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-03 at 4 15 22 PM" src="https://github.com/user-attachments/assets/bb3bed05-665f-40a1-905e-b0fc5780eede" />
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
